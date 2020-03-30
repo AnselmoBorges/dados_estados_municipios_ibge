@@ -1,4 +1,4 @@
-# Municípios Brasileiros [![Build Status](https://travis-ci.org/kelvins/Municipios-Brasileiros.svg?branch=master)](https://travis-ci.org/kelvins/Municipios-Brasileiros)
+# Municípios Brasileiros
 
 Arquivos `SQL`, `CSV` e `JSON` contendo o código IBGE, nome do município, capital, código UF, UF, estado, latitude e longitude de todos (ou quase todos) os municípios brasileiros. Total de 5.570 registros.
 
@@ -130,8 +130,6 @@ codigo_ibge,nome,latitude,longitude,capital,codigo_uf
   }
 ]
 ```
-
-**Nota**: caso encontre qualquer dado inconsistente ou tenha alguma sugestão por favor crie uma [issue](https://github.com/kelvins/Municipios-Brasileiros/issues) ou envie um [pull request](https://github.com/kelvins/Municipios-Brasileiros/pulls) diretamente. Obrigado a todos os [colaboradores](https://github.com/kelvins/Municipios-Brasileiros/graphs/contributors). :raised_hands:
 
 ## Exportação dos Dados
 
